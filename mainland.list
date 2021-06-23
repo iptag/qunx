@@ -8,8 +8,7 @@ USER-AGENT,WebTorrent*,Mainland
 USER-AGENT,WeChat*,Mainland
 
 #diy
-HOST-SUFFIX,3658801.com,Mainland
-HOST-SUFFIX,365-878.com,Mainland
+HOST-SUFFIX,365*,Mainland
 
 # China Bank
 # > Agricultural Bank of China
