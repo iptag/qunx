@@ -9,6 +9,7 @@ USER-AGENT,WeChat*,Mainland
 
 #diy
 HOST-KEYWORD,365,Mainland
+HOST-SUFFIX,gstatic.cn,Mainland
 
 # China Bank
 # > Agricultural Bank of China
