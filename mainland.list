@@ -44,10 +44,6 @@ HOST-SUFFIX,icbc.com.cn,Mainland
 HOST-SUFFIX,pingan.com,Mainland
 HOST-SUFFIX,pingan.com.cn,Mainland
 
-# Type
-# > Beplay
-HOST-KEYWORD,beplay,Mainland
-
 # > Blizzard
 USER-AGENT,hearthstone*,Mainland
 HOST,cdp.cloud.unity3d.com,Mainland
